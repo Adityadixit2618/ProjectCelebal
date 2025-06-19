@@ -1,3 +1,4 @@
 # CelebalRestaurantBot
-<img width="1363" alt="Dash" src="https://github.com/user-attachments/assets/cb8c381c-f8a5-48a2-819b-6be533e7053f" />
-<img width="1223" alt="PlacingOrder" src="https://github.com/user-attachments/assets/38efcb40-79bb-482d-9192-0cbd34c5f5dc" />
+
+<img width="1432" alt="Dash" src="https://github.com/user-attachments/assets/ed05bcb0-ccfa-498a-b403-d3ba65810b15" />
+<img width="1345" alt="PlacinfgOrder" src="https://github.com/user-attachments/assets/a3fd0326-b9c1-4565-85b0-2961f242681a" />
